@@ -1,3 +1,5 @@
+# Comment added
+
 $config = @{
                  FacStaffO365Subscription = @{
                           LicenseSkuPartNumber = 'ENTERPRISEPACK_FACULTY'
